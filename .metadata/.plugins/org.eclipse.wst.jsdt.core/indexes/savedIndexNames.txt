@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\sonarqube\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2517801371.index
+1274066526.index
+2794915618.index
+4169772162.index
+3391859937.index
+995298387.index

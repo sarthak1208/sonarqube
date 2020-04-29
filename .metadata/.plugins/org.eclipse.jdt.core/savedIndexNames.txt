@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\sonarqube\.metadata\.plugins\org.eclipse.jdt.core
+2331968013.index
+995298387.index
